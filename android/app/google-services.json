@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "396515149458",
+    "project_id": "proyecto-final-a57dc",
+    "storage_bucket": "proyecto-final-a57dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396515149458:android:c855f3a91843f1b54c484b",
+        "android_client_info": {
+          "package_name": "com.avila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396515149458-l6s4t5n1m78927bd3ha3t9ffu7oeup6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avila",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "396515149458-h0jf905rquinboj9nvhcafk2b524a4j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9tTo467EB51rjfVAjBX9fMB2NtS-9ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396515149458-h0jf905rquinboj9nvhcafk2b524a4j0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396515149458-8adi7o03cln2jh33hs6tems21vcbi8fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.avila"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
